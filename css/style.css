@@ -1,0 +1,23 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+
+.legend {
+  line-height: 50px;
+  color: #282c2c;
+}
+.legend i {
+  width: 25px;
+  height: 50px;
+  float: left;
+  margin-right: 12px;
+  opacity: 0.8;
+}
